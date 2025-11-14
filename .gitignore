@@ -7,5 +7,7 @@ node_modules/
 build/
 
 # Misc
-.DS_Store
 .env
+.DS_Store
+inventory.db
+*.db
